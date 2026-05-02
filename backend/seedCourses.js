@@ -15,7 +15,7 @@ const coursesData = [
     category: "Development",
     level: "Beginner",
     price: 49.99,
-    thumbnail: "https://images.unsplash.com/photo-1526379095098-d400fd0bfce8?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/python/800/400",
     isPublished: true
   },
   {
@@ -25,7 +25,7 @@ const coursesData = [
     category: "Development",
     level: "Advanced",
     price: 59.99,
-    thumbnail: "https://images.unsplash.com/photo-1627398225058-618525b6ec61?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/js/800/400",
     isPublished: true
   },
   {
@@ -35,7 +35,7 @@ const coursesData = [
     category: "Development",
     level: "Intermediate",
     price: 69.99,
-    thumbnail: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/reactnative/800/400",
     isPublished: true
   },
   {
@@ -45,7 +45,7 @@ const coursesData = [
     category: "Marketing",
     level: "Beginner",
     price: 39.99,
-    thumbnail: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/marketing/800/400",
     isPublished: true
   },
   {
@@ -55,7 +55,7 @@ const coursesData = [
     category: "Development",
     level: "Intermediate",
     price: 89.99,
-    thumbnail: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/mern/800/400",
     isPublished: true
   },
   {
@@ -65,7 +65,7 @@ const coursesData = [
     category: "Data Science",
     level: "Beginner",
     price: 79.99,
-    thumbnail: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/datascience/800/400",
     isPublished: true
   },
   {
@@ -75,7 +75,7 @@ const coursesData = [
     category: "Design",
     level: "Beginner",
     price: 49.99,
-    thumbnail: "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/design/800/400",
     isPublished: true
   },
   {
@@ -85,7 +85,7 @@ const coursesData = [
     category: "Data Science",
     level: "Advanced",
     price: 99.99,
-    thumbnail: "https://images.unsplash.com/photo-1527474305487-b87b222841cc?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/ml/800/400",
     isPublished: true
   },
   {
@@ -95,7 +95,7 @@ const coursesData = [
     category: "IT & Software",
     level: "Beginner",
     price: 44.99,
-    thumbnail: "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/cyber/800/400",
     isPublished: true
   },
   {
@@ -105,7 +105,7 @@ const coursesData = [
     category: "IT & Software",
     level: "Intermediate",
     price: 64.99,
-    thumbnail: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/aws/800/400",
     isPublished: true
   },
   {
@@ -115,7 +115,7 @@ const coursesData = [
     category: "Business",
     level: "Intermediate",
     price: 54.99,
-    thumbnail: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/finance/800/400",
     isPublished: true
   },
   {
@@ -125,7 +125,7 @@ const coursesData = [
     category: "Photography",
     level: "Beginner",
     price: 29.99,
-    thumbnail: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/photo/800/400",
     isPublished: true
   },
   {
@@ -135,7 +135,7 @@ const coursesData = [
     category: "Marketing",
     level: "Advanced",
     price: 74.99,
-    thumbnail: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/seo/800/400",
     isPublished: true
   },
   {
@@ -145,7 +145,7 @@ const coursesData = [
     category: "Development",
     level: "Advanced",
     price: 84.99,
-    thumbnail: "https://images.unsplash.com/photo-1526379095098-d400fd0bfce8?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/cpp/800/400",
     isPublished: true
   },
   {
@@ -155,7 +155,7 @@ const coursesData = [
     category: "Personal Development",
     level: "Beginner",
     price: 34.99,
-    thumbnail: "https://images.unsplash.com/photo-1475721025505-11538fc10086?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/speaking/800/400",
     isPublished: true
   },
   {
@@ -165,7 +165,7 @@ const coursesData = [
     category: "Development",
     level: "Intermediate",
     price: 59.99,
-    thumbnail: "https://images.unsplash.com/photo-1526379095098-d400fd0bfce8?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/golang/800/400",
     isPublished: true
   },
   {
@@ -175,7 +175,7 @@ const coursesData = [
     category: "IT & Software",
     level: "Intermediate",
     price: 69.99,
-    thumbnail: "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/crypto/800/400",
     isPublished: true
   },
   {
@@ -185,7 +185,7 @@ const coursesData = [
     category: "Business",
     level: "Advanced",
     price: 94.99,
-    thumbnail: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/pmp/800/400",
     isPublished: true
   },
   {
@@ -195,7 +195,7 @@ const coursesData = [
     category: "Music",
     level: "Beginner",
     price: 49.99,
-    thumbnail: "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/music/800/400",
     isPublished: true
   },
   {
@@ -205,7 +205,7 @@ const coursesData = [
     category: "Language",
     level: "Beginner",
     price: 24.99,
-    thumbnail: "https://images.unsplash.com/photo-1581404111394-013fc4750f75?w=800&q=80",
+    thumbnail: "https://picsum.photos/seed/spanish/800/400",
     isPublished: true
   }
 ];
@@ -231,7 +231,6 @@ const seedDB = async () => {
       });
       console.log("Created new educator:", educator.email);
     } else {
-        // optionally update the password to ensure it matches
         const hashPassword = await bcrypt.hash(password, 10);
         educator.password = hashPassword;
         educator.role = "educator";
