@@ -35,7 +35,7 @@ Query: ${input}
 `
 
   const response = await ai.models.generateContent({
-    model: "gemini-2.5-flash",
+    model: "gemini-1.5-flash",
     contents:prompt,
   });
   const keyword=response.text
@@ -71,6 +71,7 @@ Query: ${input}
 
 
     } catch (error) {
-        console.log(error)
+        console.log(error);
+        return res.status(500).json({ message: "Something went wrong while fetching courses" });
     }
 }
